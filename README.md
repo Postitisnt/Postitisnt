@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ehi! 👋
 This is me!
 - 🧑🏻‍💻 I’m currently studying Digital Humanities & Digital Knowledge (DHDK for the ones who like acronyms 🥹)
 - 📫 How to reach me: ellepuntopi.98@gmail.com
