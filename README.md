@@ -1,6 +1,6 @@
 ### Ehi! 👋
 This is me!
-- 🧑🏻‍💻 I’m currently studying Digital Humanities & Digital Knowledge (DHDK for the ones who like acronyms 🥹)
+- 🧑🏻‍💻 I’m currently studying [Digital Humanities & Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the [University of Bologna](https://www.unibo.it/it) (DHDK for the ones who like acronyms 🥹)
 - 📫 How to reach me: ellepuntopi.98@gmail.com
 
 If you are interested in some DHDK projects, check my [portfolio](https://github.com/Postitisnt/DHDK_Projects.git)
