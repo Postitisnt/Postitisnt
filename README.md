@@ -1,4 +1,4 @@
-### Ehi! 👋
+## Welcome! 👋
   
 This is me!
 - 🧑🏻‍💻 I’m currently studying [Digital Humanities & Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the [University of Bologna](https://www.unibo.it/it) (DHDK for the ones who like acronyms 🥹)
